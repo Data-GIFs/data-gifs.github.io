@@ -1,0 +1,210 @@
+@font-face {
+  font-family: bigTitleFont;
+  src: url('../assets/font/bigTitle.woff');
+}
+
+@font-face {
+  font-family: bodyFont;
+  src: url('../assets/font/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: titleFont;
+    src: url('../assets/font/Montserrat-SemiBold.otf');
+}
+
+@media screen and (max-width: 599px) {
+    .container {
+        width: 90vw;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .container {
+        width: 70vw;
+    }
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .intro {
+        margin-top: 25px;
+        margin-bottom: 20px;
+    
+        .def {
+            background: white;
+            padding: 20px 20px 5px 20px;
+            text-align: left;
+            color: #404040;
+            font-family: bodyFont;
+            border-radius: 5px;
+            line-height: 150%;
+            font-weight: 500;
+
+            .name {
+                font-family: bigTitleFont;
+                font-weight: 900;
+                font-size: 1.2em;
+            }
+
+            .link {
+                color: black;
+                border-bottom: 1px rgb(76,178,193) solid;
+                font-weight: 700;
+                text-decoration: none;
+            }
+            
+            .link:hover {
+                cursor: pointer;
+            }
+
+        }
+    }
+
+    .publication {
+        width: 100%;
+        margin-bottom: 35px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        .left {
+            width: 480px;
+        }
+
+        .right {
+            background: white;
+            padding: 20px;
+            flex: 1;
+            border-radius: 3px;
+            
+
+            .paper {
+                margin-top: 5px;
+                margin-bottom: 5px;
+                font-size: 2em;
+                font-weight: 700;
+                font-family: titleFont;
+                color: black;
+
+                a {
+                    color: black;
+                    text-decoration: none;
+                    border-bottom: 1px black solid;
+                }
+                
+                a:hover {
+                    border-bottom: 1px rgb(76,178,193) solid;
+                    color: rgb(76,178,193);
+                }
+            }
+
+            .journal {
+                margin-top: 10px;
+                margin-bottom: 40px;
+                font-size: 1 em;
+                font-weight: 300;
+                font-family: bodyFont;
+                color:#909090;
+                padding-right: 30px;
+            }
+
+            .author {
+                font-size: 1.1em;
+                line-height: 140%;
+                font-weight: 700;
+                font-family: bodyFont;
+                color:#404040;
+                padding-right: 30px;
+
+                a {
+                    color: #404040;
+                    text-decoration: none;
+                    border-bottom: 1px black solid;
+                }
+
+                a:hover {
+                    border-bottom: 1px rgb(76,178,193) solid;
+                    color: rgb(76,178,193);
+                }
+            }
+        }
+    }
+
+    .gallery {
+        width: 100%;
+        margin-bottom: 20px;
+    
+        .title {
+            background: white;
+            padding: 10px;
+            text-align: left;
+            color: #404040;
+            font-family: bodyFont;
+            border-radius: 5px;
+            line-height: 150%;
+            font-weight: 500;
+            font-size: 2em;
+            text-align: center;
+        }
+
+        .subtitle {
+            font-size: 1em;
+            text-align: center;
+            line-height: 150%;
+            font-family: bigTitleFont;
+            margin: 5px;
+
+            a {
+                color: #404040;
+                text-decoration: none;
+                border-bottom: 1px black solid;
+            }
+            a:hover {
+                border-bottom: 1px rgb(76,178,193) solid;
+                color: rgb(76,178,193);
+            }
+        }
+
+        .cards {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-between;
+
+            .title {
+                margin-top: 5px;
+                margin-bottom: 5px;
+                font-size: 1.2em;
+                font-weight: 700;
+                font-family: bodyFont;
+                color: black;
+                text-align: center;
+
+                a {
+                    color: black;
+                    text-decoration: none;
+                    border-bottom: 1px black solid;
+                }
+                
+                a:hover {
+                    border-bottom: 1px rgb(76,178,193) solid;
+                    color: rgb(76,178,193);
+                }
+            }
+
+            .author {
+                font-family: bodyFont;
+                font-size: 1em;
+                color: black;
+                text-align: center;
+            }
+            
+            
+        }
+    }
+
+}

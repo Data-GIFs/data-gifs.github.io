@@ -1,0 +1,142 @@
+@font-face {
+  font-family: logoFont;
+  src: url('../assets/font/Montserrat-Light.ttf');
+}
+@font-face {
+  font-family: optionFont;
+  src: url('../assets/font/Montserrat-SemiBold.otf');
+}
+
+@font-face {
+  font-family: titleFont;
+  src: url('../assets/font/Montserrat-SemiBold.otf');
+}
+
+.container {
+    width: 100%;
+
+    @mixin head {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        position: fixed;
+        z-index: 1000;
+    }
+    
+    .head {
+        @include head;
+    }
+   .headBg {
+        @include head;
+        background: #4d4548;
+    }
+
+    @mixin logo {
+        font-weight: 700;
+        font-size: 18px;
+        font-family: logoFont;
+        margin-left: 25px;
+        margin-top: 15px;
+        margin-right: 50px;
+        cursor: pointer;
+    }
+    
+    .logo {
+        @include logo;
+        color: white;
+    }
+
+    @mixin option {
+        margin-right: 20px;
+        margin-top: 15px;
+        cursor: pointer;
+        padding: 0 5px 0 5px;
+        font-family: optionFont;
+        font-size: 15px;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        margin-right: 1vw;
+
+        .option{
+            @include option;
+            color: white;
+        }
+
+        .option:hover{
+            color: #cacaca;
+        }
+
+        .optionSelected{
+            @include option;
+            color: white;
+            padding-bottom: 5px;
+            border-bottom: 7px rgb(76,178,193) solid;
+        }
+
+    }    
+
+    .banner{
+        width: 100%;
+        height: 250px;
+        background: url('../assets/image/sample.gif') center;
+        border-bottom: 7px rgb(76,178,193) solid;
+        //unselectable
+        -moz-user-select:none; /*firefox*/
+        -webkit-user-select:none; /*webkit*/
+        -ms-user-select:none; /*IE10*/
+        -khtml-user-select:none; /*earlier*/
+        user-select:none;
+        
+        .bg {
+            width: 100%;
+            height: 100%;
+            background: rgba(66, 55, 55, 0.815);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+
+            .title{
+                color: white;
+                font-family: titleFont;
+                font-size: 60px;
+                font-weight: 700;
+                text-align: center;
+            }
+        }
+    }
+}
+
+@mixin optionMobile {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    padding: 0 5px 0 5px;
+    font-family: optionFont;
+    font-size: 1em;
+}
+
+.menuMobile {
+    margin-left: 5vw;
+
+    .menuCancel {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .option {
+        @include optionMobile;
+        color: white;
+    }
+
+    .optionSelected{
+        color: white;
+        margin-bottom: 3px;
+        border-bottom: 5px rgb(76,178,193) solid;
+    }
+}

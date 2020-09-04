@@ -1,0 +1,139 @@
+@font-face {
+  font-family: bigTitleFont;
+  src: url('../assets/font/bigTitle.woff');
+}
+
+@font-face {
+  font-family: bodyFont;
+  src: url('../assets/font/Roboto-Regular.ttf');
+}
+
+@media screen and (max-width: 599px) {
+    .container {
+        width: 90vw;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .container {
+        width: 70vw;
+    }
+}
+
+@media screen and (max-width: 799px) {
+    .choice {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .icon {
+            width: 100px;
+            margin-bottom: 10px;
+        }
+    }
+    .exampleImg {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .choice {
+        display: flex;
+        flex-direction: row;
+        .icon {
+            width: 100px;
+            margin-right: 20px;
+        }
+    }
+    .exampleImg {
+        width: 80%;
+    }
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .options {
+        color: #b8b8b8;
+        .opt {
+            display: inline;
+            list-style:none; 
+            margin:0 20px;
+            font-style:italic;
+            font-family: bigTitleFont;
+            cursor: pointer;
+        }
+        .opt:hover {
+            color: #717171;
+        }
+        .optSelected {
+            display: inline;
+            list-style:none;
+            margin:0 20px;
+            font-style:italic;
+            font-family: bigTitleFont;
+            cursor: pointer;
+            color: #5c5c5c;
+            font-weight: 600;
+        }
+        li:first-child {
+            margin-left: 0px;
+        }
+        li:last-child {
+            margin-right: 0px;
+        }
+    }
+
+    .content {
+        margin-bottom: 30px;
+        margin-top: 10px;
+
+        .intro {
+            background: white;
+            padding: 20px;
+            text-align: left;
+            color: #404040;
+            font-family: bigTitleFont;
+            border-radius: 5px;
+            line-height: 150%;
+            font-weight: 500;
+            margin-bottom: 25px;
+
+            .name {
+            font-family: bigTitleFont;
+            font-weight: 900;
+            font-size: 1.2em;
+            }
+            .quote {
+                font-weight: 800;
+                font-size: 1.2em;
+            }
+        }
+
+        .choice {
+            margin-bottom: 15px;
+            .desc {
+                background: white;
+                padding: 20px;
+                flex: 1;
+                border-radius: 3px;
+                font-family: bigTitleFont;
+                font-weight: 500;
+                color: #404040;
+                .title {
+                    font-weight: 300;
+                    font-size: 1.5em;
+                    margin-top: 0px;
+                    font-family: bodyFont;
+                }
+                .tag {
+                    font-weight: 600;
+                    margin-right: 10px;
+                    color: black;
+                    font-family: bodyFont;
+                }
+            }
+        }
+    }
+}

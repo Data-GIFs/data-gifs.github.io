@@ -1,0 +1,94 @@
+@font-face {
+  font-family: bodyFont;
+  src: url('../assets/font/Roboto-Regular.ttf');
+}
+
+@media screen and (max-width: 599px) {
+    .container {
+        width: 90vw;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .container {
+        width: 70vw;
+    }
+}
+
+@media screen and (max-width: 799px) {
+    .suggestion {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        .icon {
+            width: 100px;
+            margin-bottom: 10px;
+        }
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .suggestion {
+        display: flex;
+        flex-direction: row;
+        .icon {
+            width: 100px;
+            margin-right: 20px;
+        }
+    }
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .intro {
+        margin-top: 25px;
+        margin-bottom: 35px;
+        background: white;
+        padding: 20px;
+        text-align: left;
+        color: #404040;
+        font-family: bodyFont;
+        border-radius: 5px;
+        line-height: 150%;
+        font-weight: 500;
+
+        a {
+            color: black;
+            text-decoration: none;
+            font-weight: 700;
+            border-bottom: 1px black solid;
+        }
+        
+        a:hover {
+            border-bottom: 1px rgb(76,178,193) solid;
+            color: rgb(76,178,193);
+            font-weight: 700;
+        }
+    }
+
+    .content {
+        .suggestion {
+            margin-bottom: 20px;
+            .desc {
+                background: white;
+                padding: 20px;
+                flex: 1;
+                border-radius: 3px;
+                font-family: bodyFont;
+                line-height: 150%;
+                font-weight: 500;
+                color: #404040;
+
+                .title {
+                    font-weight: 300;
+                    font-size: 1.5em;
+                    margin-top: 0px;
+                    font-family: bodyFont;
+                }
+            }
+        }
+    }
+}
