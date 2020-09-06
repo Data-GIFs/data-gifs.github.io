@@ -162,7 +162,7 @@ class Home extends React.Component {
                         <span>Data-GIF Gallery</span>
                     </div>
                     <div className={style.subtitle}>
-                        <a href="data-gifs.github.io/Data-GIFs/gallery">More GIFs &gt;&gt;</a>
+                        <a href="https://data-gifs.github.io/Data-GIFs/gallery">More GIFs &gt;&gt;</a>
                     </div>
                     <div className={style.cards}>
                         {this.renderGIFs()}
