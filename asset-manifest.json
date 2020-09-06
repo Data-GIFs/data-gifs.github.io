@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.046ea17c.chunk.css",
-    "main.js": "/static/js/main.c901ed60.chunk.js",
-    "main.js.map": "/static/js/main.c901ed60.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e65b1fa4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e65b1fa4.js.map",
-    "static/js/2.310b1df2.chunk.js": "/static/js/2.310b1df2.chunk.js",
-    "static/js/2.310b1df2.chunk.js.map": "/static/js/2.310b1df2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.66587bc3489aa4f741b7983e9a59a787.js": "/precache-manifest.66587bc3489aa4f741b7983e9a59a787.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.046ea17c.chunk.css.map": "/static/css/main.046ea17c.chunk.css.map",
-    "static/js/2.310b1df2.chunk.js.LICENSE.txt": "/static/js/2.310b1df2.chunk.js.LICENSE.txt",
-    "static/media/Navigation.module.scss": "/static/media/sample.64ea21ea.gif",
-    "static/media/Home.module.scss": "/static/media/Montserrat-SemiBold.cbdf3ab9.otf",
-    "static/media/Study.module.scss": "/static/media/Roboto-Regular.11eabca2.ttf",
-    "static/media/Space.module.scss": "/static/media/bigTitle.10aa1d8f.woff"
+    "main.css": "./static/css/main.61f28b3c.chunk.css",
+    "main.js": "./static/js/main.c901ed60.chunk.js",
+    "main.js.map": "./static/js/main.c901ed60.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.728c8226.js",
+    "runtime-main.js.map": "./static/js/runtime-main.728c8226.js.map",
+    "static/js/2.310b1df2.chunk.js": "./static/js/2.310b1df2.chunk.js",
+    "static/js/2.310b1df2.chunk.js.map": "./static/js/2.310b1df2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.8be8162f9dd4b79643b4780685f57bbd.js": "./precache-manifest.8be8162f9dd4b79643b4780685f57bbd.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.61f28b3c.chunk.css.map": "./static/css/main.61f28b3c.chunk.css.map",
+    "static/js/2.310b1df2.chunk.js.LICENSE.txt": "./static/js/2.310b1df2.chunk.js.LICENSE.txt",
+    "static/media/Navigation.module.scss": "./static/media/sample.64ea21ea.gif",
+    "static/media/Home.module.scss": "./static/media/Montserrat-SemiBold.cbdf3ab9.otf",
+    "static/media/Study.module.scss": "./static/media/Roboto-Regular.11eabca2.ttf",
+    "static/media/Space.module.scss": "./static/media/bigTitle.10aa1d8f.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e65b1fa4.js",
+    "static/js/runtime-main.728c8226.js",
     "static/js/2.310b1df2.chunk.js",
-    "static/css/main.046ea17c.chunk.css",
+    "static/css/main.61f28b3c.chunk.css",
     "static/js/main.c901ed60.chunk.js"
   ]
 }
