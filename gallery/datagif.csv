@@ -1,0 +1,109 @@
+Title,Source,visualization,narrative_progress,animation_mapping,context_preservation,repetition,gif,length
+How the Coronavirus spread across America,https://twitter.com/nytimes/status/1241387140933652481,map,with,temporal,no_context_preservation,pause,acrossUSA,11400
+How could the outbreak spread?,https://twitter.com/i/status/1241131426210291713,map,without,temporal,no_context_preservation,pause,outbreak,14600
+Which countries have flattened the curve for the coronavirus?,https://twitter.com/nytimes/status/1240790201414438912,line,without,faceting,no_context_preservation,loop,virusCurve,17600
+How social distancing and quarantine works to slow transmission,https://twitter.com/whereisdaz/status/1239369521334341632,area,with,temporal,no_context_preservation,loop,social,11600
+COVID-19 update in Philippines,https://twitter.com/rupertnotholmes/status/1241223198357606402,map,without,faceting,long_exposure,loop,philippines,18000
+The rapid spread of the coronavirus around the world,https://twitter.com/AdamRogers2030/status/1241798634926223360,map,without,temporal,no_context_preservation,pause,worldwide,13400
+What does level 2 of Covid-19 Alert System means,https://twitter.com/i/status/1241433050556309504,diagram,without,narrative,long_exposure,pause,distance,11700
+US Midterm Elections,https://twitter.com/BBCNewsGraphics/status/1060582890180874240,map,with,temporal,no_context_preservation,loop,USElection,11600
+Breathing City Manhattan,http://lenagroeger.com/datagifs/#/7,map,with,temporal,no_context_preservation,loop,breathingcity,6000
+Girls Names Over Time,http://lenagroeger.com/datagifs/#/13,map,without,temporal,no_context_preservation,loop,girlsname,61150
+ISIS has lost Deir al-Zour in Syria and Qaim in Iraq,https://twitter.com/nytgraphics/status/926513594182889472,map,without,faceting,no_context_preservation,bounce,isis,10400
+Where have forests been lost or gained,http://www.thepaper.cn/baidu.jsp?contid=1548095,map,without,temporal,no_context_preservation,loop,forest,7840
+GIF Map,https://towardsdatascience.com/how-to-make-a-gif-map-using-python-geopandas-and-matplotlib-cd8827cefbc8,map,without,temporal,no_context_preservation,loop,GIFmap,5400
+Making sense of massive amount of GPS data,https://carto.com/blog/spatial-data-science-trends-2018/,map,without,temporal,no_context_preservation,loop,GPSdata,3600
+The Growth of Housing Prices,https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/visualizing-growth-with-dot-density/,map,without,temporal,no_context_preservation,loop,HousingGrowth,4000
+The Changes of Job Markets,https://media.giphy.com/media/6JY1Jo2lwnBSM/giphy.gif,map,with,temporal,no_context_preservation,loop,jobmarket,12000
+The World's 20 Most Popular Megacities,https://i1.wp.com/thealeph.com/wp-content/uploads/2018/11/02-top-20-megacities-year-2100.gif?fit=1024%2C808&ssl=1,map,without,temporal,no_context_preservation,loop,popularMegacities,26000
+The Growth of Slavery over 60 Years,https://twitter.com/USATODAY/status/1164519039059865600,map,without,temporal,no_context_preservation,loop,slavery,6500
+Drug Overdose Deaths Rippled across America,https://twitter.com/nytgraphics/status/923659268041125888,map,without,temporal,no_context_preservation,pause,drugOverdose,11500
+New Diseases in the World,https://www.npr.org/sections/goatsandsoda/2017/02/07/512634375/map-find-out-what-new-viruses-are-emerging-in-your-backyard?utm_source=twitter.com&utm_medium=social&utm_campaign=nprmedia&utm_term=aboutnpr&utm_content=20170207,map,with,temporal,long_exposure,loop,disease,10300
+Residential growth,https://stowohio.org/wp-content/uploads/2016/11/anim-multicolor.gif,map,without,temporal,long_exposure,loop,residentailGrowth,5250
+Uber Across the United States,https://medium.com/uber-under-the-hood/uber-across-the-united-states-b6802e9d92a2,map,without,temporal,long_exposure,loop,Uber,17500
+WalMart distribution in Chicago,http://lenagroeger.com/datagifs/#/8,map,without,temporal,long_exposure,loop,walmart3years,3000
+Average First Leaf Apperance,https://twitter.com/nytgraphics/status/976830873445261314,map,without,temporal,long_exposure,pause,firstLeaf,13100
+The Proliferation of Walmart,https://twitter.com/toddrjones/status/1167112782124179456,map,without,temporal,long_exposure,pause,walmart,10000
+Flight Patterns after Brussels Attacks,http://lenagroeger.com/datagifs/#/9,map,without,temporal,trails,loop,FlightPatterns,8700
+118 Bird Species Migrations,https://www.allaboutbirds.org/mesmerizing-migration-watch-118-bird-species-migrate-across-a-map-of-the-western-hemisphere/,map,without,temporal,trails,pause,birdTraces,30000
+Arctic climate,https://sites.uci.edu/zlabe/files/2019/04/ArcticAmplification.gif,line,without,temporal,no_context_preservation,pause,ArcticClimate,5900
+"Our Broken Economy, in One Simple Chart",https://www.nytimes.com/interactive/2017/08/07/opinion/leonhardt-income-inequality.html,line,without,temporal,long_exposure,pause,brokenEconomy,9800
+India vs other economies: car sales slide,https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/image004.gif?h2k3s1MPxLgUOTWyDbBarzVPsBCy5v4W=,line,without,temporal,long_exposure,loop,carsales,18800
+How years compare with 20th century,https://gifer.com/en/fy63,line,without,temporal,long_exposure,loop,compare,8000
+Detroit democratic debate,https://twitter.com/GoogleTrends/status/1156762414525775872,line,without,temporal,trails,loop,debate,3800
+PSG are flying but the rest of ligue 1 is anaemic,https://revolution-computing.typepad.com/.a/6a010534b1db25970b01bb093b171a970d-800wi,line,without,temporal,trails,pause,football,20800
+Global Temperatures Changes,http://lenagroeger.com/datagifs/#/2,line,without,temporal,long_exposure,loop,GlobalTemperature,25600
+The changing tides of European footballing power,https://blog.revolutionanalytics.com/2016/09/financial-times-quantitative-journalism.html,line,without,temporal,trails,pause,groupfootball,21900
+Arctic Sea Ice Levels,https://twitter.com/nytgraphics/status/912437645040607240,line,without,temporal,long_exposure,loop,icelevel,3900
+Occupation Growth and Decline,https://mmbiz.qpic.cn/mmbiz_gif/iae0QAtZNazrMiaLsRjouILdslLKwaQOZh6qBtEDJFibh0gOLYDpECQIYPicbHOicjsza7icfMKbcGUsqkRibVVh7rsqg/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1,line,without,temporal,no_context_preservation,loop,job,11700
+Labor force participation rate,https://twitter.com/lenkiefer/status/1091352582776410113?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&ref_url=https%3A%2F%2Fcdn.embedly.com%2Fwidgets%2Fmedia.html%3Ftype%3Dtext%252Fhtml%26key%3Da19fcc184b9711e1b4764040d3dc5c07%26schema%3Dtwitter%26url%3Dhttps%253A%2F%2Ftwitter.com%2Flenkiefer%2Fstatus%2F1091352582776410113%26image%3Dhttps%253A%2F%2Fi.embed.ly%2F1%2Fimage%253Furl%253Dhttps%25253A%25252F%25252Fpbs.twimg.com%25252Ftweet_video_thumb%25252FDyVDQAGXcAITnVP.jpg%2526key%253Da19fcc184b9711e1b4764040d3dc5c07,line,without,temporal,long_exposure,pause,labor,15000
+"Marrying Later, Staying Single Longer",https://flowingdata.com/2017/07/17/marrying-age-over-the-past-century/,line,without,temporal,long_exposure,pause,marryLater,3800
+What Sneakerheads Pay For Air Jordan Retros,https://fivethirtyeight.com/features/you-see-sneakers-these-guys-see-hundreds-of-millions-in-resale-profit/,line,without,temporal,no_context_preservation,loop,sneaks,2000
+Number of Reported Stops by year,https://www.nyclu.org/sites/default/files/1-stop-and-frisk-decline.gif,line,without,temporal,long_exposure,pause,stop,44170
+Temperature Trends,https://www.benlcollins.com/wp-content/uploads/2016/10/google_chart_animation-FINAL.gif,line,without,temporal,long_exposure,pause,tempTrends,6260
+Americans are Growing Bigger,https://flowingdata.com/2016/06/14/growing-to-obesity/,bar,without,temporal,no_context_preservation,bounce,biggerAmerican,5800
+Top 10 countries by population,https://greatified.com/2019/03/20/how-to-build-an-animated-bar-chart-race-in-tableau-software/,bar,without,temporal,no_context_preservation,loop,countries,63090
+Global GDP distribution,https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/pehscfttxvtkhc9jijmfx6-ssd0prs67pthx_h9dieq.gif,bar,without,temporal,no_context_preservation,pause,globalGDP,9800
+Google Data GIFs,https://www.blog.google/outreach-initiatives/google-news-initiative/make-your-own-data-gifs-our-new-too/,bar,without,temporal,no_context_preservation,pause,Google,11650
+US existing home sales year-to-date,https://twitter.com/lenkiefer/status/1174714438865342468,bar,without,temporal,no_context_preservation,bounce,homesales,12400
+Manhattan Population Explorer,https://untappedcities.com/2018/05/15/fun-maps-see-the-population-of-manhattan-hour-by-hour/,bar,with,temporal,no_context_preservation,loop,manhattan,16800
+The Shape-shifting US Income Distribution,http://lenagroeger.com/datagifs/#/15,bar,without,temporal,baseline,loop,middleClass,16950
+Percent of US Population by Age Group,http://twitpic.com/e0t7oo,bar,without,temporal,no_context_preservation,pause,nextAmerica,4730
+European countries got much more peaceful ,https://twitter.com/MaxCRoser/status/1173147942594719744,bar,without,temporal,no_context_preservation,pause,peaceEuro,18200
+"The Rise of Men who don't Work, and what they do instead",http://lenagroeger.s3.amazonaws.com/talks/nicar-2015/loops-nicar/loops.html#/43,bar,without,temporal,no_context_preservation,bounce,riseofmen,4300
+Tax will increase,https://twitter.com/nytgraphics/status/928404977613238272,bar,without,temporal,no_context_preservation,bounce,taxIncrease,2000
+Animated Difference Charts in US gender puplation,https://i0.wp.com/flowingdata.com/wp-content/uploads/2018/10/00-male-female-pyramid.gif?resize=670%2C470&ssl=1,area,without,temporal,baseline,loop,areaGender,9300
+The difference between men and women populations by age,https://i2.wp.com/flowingdata.com/wp-content/uploads/2018/10/male-female-bivariate-zeroed.gif?resize=670%2C420&ssl=1,area,without,temporal,baseline,loop,areaGender2,4700
+Animated Difference Charts in R,https://flowingdata.com/2018/11/09/how-i-made-that-animated-difference-charts-in-r/,area,without,temporal,baseline,loop,genderppl,4700
+Population: India vs china,https://twitter.com/aronstrandberg/status/669679757735383041?platform=hootsuite,area,without,temporal,no_context_preservation,pause,indiaChina,12700
+New York City Marathon,http://lenagroeger.com/datagifs/#/4,area,without,temporal,no_context_preservation,loop,nycMarathon,7000
+Political Polarization,http://lenagroeger.com/datagifs/#/14,area,without,temporal,no_context_preservation,loop,political,18570
+National delbt,https://www.vizualism.nl/wp-content/uploads/ANI_2019_FD-Staatsschuld.gif,point,without,temporal,trails,pause,debt,12900
+Earth warming,https://twitter.com/nytgraphics/status/954042216921563137,point,without,temporal,long_exposure,pause,earthWarming,8900
+GDP-Life expectancy,https://www.datanovia.com/en/wp-content/uploads/dn-tutorials/r-tutorial/images/view_follow.gif,point,without,temporal,no_context_preservation,loop,GDP-life,10000
+"LAC has become a middle-income region, but not a middle class society",https://www.undp.org/content/dam/rblac/img/povred/Fact%201%20-%20English%20-%20Revised%20SourceUSETHIS.gif,point,without,temporal,trails,pause,middleIncome,4800
+A Day in the Life of Americans,https://medium.com/@hr23232323/7-weeks-of-data-visualization-a-day-in-the-life-of-americans-ddbfd387756d,point,without,temporal,no_context_preservation,loop,oneDay,12050
+icrc indicator of quality of gov,https://www.qogdata.pol.gu.se/dataviz/qogdata.gif,point,with,temporal,trails,loop,qogdata,13860
+Remesas acumuladas durante periodo presidencial,https://ddelafuente.files.wordpress.com/2019/02/remesas_presidencial.gif?w=480&zoom=2,line,without,temporal,trails,loop,remesas,10000
+The Fall And Rise Of U.S. Income Inequality,http://lenagroeger.com/datagifs/#/16,point,with,temporal,overview,loop,riseAndFall,8050
+Bloom: info we trust,https://infowetrust.com/bloom/,circle,with,temporal,no_context_preservation,loop,bloom,13000
+global migration,https://revolution-computing.typepad.com/.a/6a010534b1db25970b022ad39d03c1200b-pi,diagram,with,temporal,no_context_preservation,loop,globalMigration,10100
+Total Crimes Against Children between 2001 to 2008,https://twitter.com/akashbarla/status/1172474138734161920,tree_and_graph,without,temporal,no_context_preservation,loop,treemap,5100
+Voronoi chart in soccer matches,https://twitter.com/TriMyData/status/1146750947923779586,diagram,without,temporal,no_context_preservation,loop,voronoi,5000
+Commuting Time ,https://urbanland.uli.org/wp-content/uploads/sites/5/2018/10/BusinessData.gif,map,with,faceting,no_context_preservation,bounce,commuting,3850
+American Politican emoji visualization,https://realmreynolds.tumblr.com/post/132155472631/pretty-sick-emoji-cloud-we-zignal-labs-made,point,without,faceting,no_context_preservation,loop,emoji,5000
+Estimation,http://lenagroeger.s3.amazonaws.com/talks/nicar-2015/loops-nicar/loops.html#/42,bar,without,faceting,no_context_preservation,bounce,estimation,4600
+EuroVision competition,https://twitter.com/GoogleTrends/status/1130210883743887361,map,without,faceting,no_context_preservation,pause,eurovision,4200
+Gun Homicides in NYC,http://lenagroeger.com/datagifs/#/26,map,without,faceting,no_context_preservation,loop,GunNYC,10000
+The Housing Value of Every County in the U.S.,http://metrocosm.com/the-housing-value-of-every-county-in-the-u-s/,map,without,faceting,no_context_preservation,bounce,housingvalue,6400
+Immigrants From Banned Nations,http://lenagroeger.com/datagifs/#/25,map,without,faceting,no_context_preservation,loop,immigrants,21100
+150 largest cities in the world,http://bl.ocks.org/nbremer/8df57868090f11e59175804e2062b2aa,map,without,faceting,no_context_preservation,loop,largecity,14500
+10 largest countries,https://www.thoughtco.com/thmb/yC6tXu3lJRX9Isad89Xgm7Cn48E=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/TC_4147693-biggest-countries-in-the-world02-5ad63c5504d1cf003712905e.gif,map,without,faceting,long_exposure,loop,largestcities,21000
+Men/Women in Parliament,http://lenagroeger.com/datagifs/#/22,point,without,faceting,no_context_preservation,loop,menwomen,1400
+Trump wants a border wall,https://twitter.com/nytgraphics/status/973587991988875264,map,without,faceting,trails,loop,MexicoWall,14400
+Maximum range of missile,https://twitter.com/nytgraphics/status/961306064833703942,map,without,faceting,long_exposure,loop,missiles,8400
+Nat map,https://blog.csiro.au/wp-content/uploads/2019/02/Nat_Map.gif,map,without,faceting,no_context_preservation,bounce,natmap,14230
+How Data can power Nike and Adidas Revival,https://medium.com/@NearInsights/how-data-can-power-nikes-revival-ee95c57cdf99,map,without,faceting,overview,loop,nike,8000
+Visualize PI,https://gizmodo.com/cool-visualization-reveals-how-the-number-pi-looks-1566781606,diagram,without,faceting,no_context_preservation,bounce,pi,5200
+balance of power,https://aemstatic-ww2.azureedge.net/content/dam/pei/online-articles/2017/07/ElecConsumption_BackForth2a%20(1).gif,map,without,faceting,no_context_preservation,bounce,power,10500
+"After Driving Streaming Music� Rise, Spotify Aims to Cash In",https://twitter.com/nytgraphics/status/981223533572485122,diagram,without,faceting,no_context_preservation,loop,sankey,15400
+sea level,https://d32ogoqmya1dw8.cloudfront.net/images/NAGTWorkshops/data_models/matlab15/taipei_sea_level_rise.v3.gif,map,without,faceting,no_context_preservation,loop,sealevel,12060
+share price of companies,https://si.wsj.net/public/resources/images/OG-AG740_Startu_G_20160303150509.gif,line,without,faceting,overview,loop,sharedprice,13200
+Medal Counts Since the 1896 Olympic Games,https://twitter.com/nytgraphics/status/764983298510782464,tree_and_graph,without,faceting,no_context_preservation,loop,themeriver,19800
+Donald Trump Vs. Sea Level Rise,http://lenagroeger.com/datagifs/#/24,map,without,faceting,no_context_preservation,loop,trump,6050
+2018 WAR Requency of Position for First Five Rounds,http://statholesports.com/visualizing-fantasy-football-positional-hierarchy/,bar,without,faceting,no_context_preservation,loop,war,9300
+How much warmer was your city in 2017,https://twitter.com/nytgraphics/status/955474891221884928,line,without,faceting,no_context_preservation,loop,warmer,17500
+What Republicans think about climate change,https://twitter.com/nytgraphics/status/941299591823192064,map,without,narrative,no_context_preservation,loop,causity,9800
+Detroit's Debt and Revenue,http://lenagroeger.com/datagifs/#/30,line,without,narrative,long_exposure,loop,detroit,25700
+The Myth of the Impartial Machine,https://parametric.press/issue-01/the-myth-of-the-impartial-machine/static/animations/adjust-predictions.gif,bar,without,narrative,no_context_preservation,loop,ml,12000
+discover new market,https://d31ogkc41ydx1q.cloudfront.net/wp-content/uploads/2019/06/2-discover-new-markets.gif,map,without,narrative,no_context_preservation,loop,newmarket,11110
+The world remains far off course from preventing drastic global warmin,https://twitter.com/nytgraphics/status/927516354982371328,area,with,narrative,no_context_preservation,loop,preventWarm,9000
+Tax introduction,https://twitter.com/nytgraphics/status/931217331308687360,bar,without,narrative,overview,loop,taxIntro,5100
+How much each team has to strive to make their first mark in a Test Match?,https://twitter.com/JakeerMd/status/1172483368560160768,point,without,narrative,no_context_preservation,loop,team,5000
+Uncertainty ,http://lenagroeger.s3.amazonaws.com/talks/nicar-2015/loops-nicar/loops.html#/31,bar,without,narrative,no_context_preservation,loop,uncertainty,3160
+Foreign captial xxx,https://www.stockholmresilience.org/research/research-news/2018-08-13-the-hidden-environmental-consequences-of-tax-havens.html,diagram,without,faceting,long_exposure,loop,foreign,14000
+Flows of development assistance for health,https://medicalxpress.com/news/2017-04-widely-disparate-health.html,diagram,without,faceting,long_exposure,loop,health,14640
+Neighborhood segregation and schools,https://twitter.com/chingos/status/1067823844864471045,point,without,setup,no_context_preservation,loop,school,4700
+Which platforms do journalists post their news during the coronavirus period,http://media.people.com.cn/n1/2020/0224/c40606-31600532.html,circle,without,setup,long_exposure,pause,topic,6030
+The number of total cases in multiple countries,https://wap.peopleapp.com/article/5210197/5111953,bar,without,setup,long_exposure,pause,virus,8900
+Women candidates among USA,https://twitter.com/nytgraphics/status/995376678124904450,map,without,setup,long_exposure,pause,womencandidate,6800
