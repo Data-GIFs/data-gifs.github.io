@@ -1,7 +1,31 @@
 import React from 'react'
 import style from '../css/Space.module.scss'
 import store from './store/store'
+import { Dialog, DialogContent, DialogTitle } from '@material-ui/core'
+import { withStyles, makeStyles } from '@material-ui/core/styles';
+import FullscreenIcon from '@material-ui/icons/Fullscreen'
 
+// click the example image to show the animated GIF
+function DisplayGIF(props) {
+    // const classes = this.props.classes
+    return (
+        <React.Fragment>
+            <img src={props.value} className={style.exampleImg} />
+            {/* <FullscreenIcon className={classes.fullscreen} style={{ display: this.state.anchorEl === card.url ? 'inline' : 'none' }} onClick={this.openDialog.bind(this, index)} /> */}
+            {/* <Dialog open={this.state.openDialog} onClose={this.closeDialog} BackdropProps={{ className: classes.backdrop }} classes={{ paper: classes.dialogPaper }}>
+                <DialogTitle disableTypography className={classes.dialogTitle}>{this.state.gif['title']}</DialogTitle>
+                <DialogContent className={classes.dialogContent}>
+                    <CardMedia
+                        component="img"
+                        image={'corpus/' + this.state.gif['url'] + '.gif'}
+                    />
+                </DialogContent>
+            </Dialog> */}
+        </React.Fragment>
+    )   
+}
+
+// show each design choice
 function DisplayChoice(props) {
     return (
         <div className={style.choice}>
@@ -14,7 +38,8 @@ function DisplayChoice(props) {
                     <span className={style.tag}>Definition: </span>
                     {props.value.definition}
                 </p>
-                {props.value.example !== "" ? <img src={'example/' + props.value.example + '.png'} className={style.exampleImg} />: null}
+                {/* {props.value.example !== "" ? <img src={'example/' + props.value.example + '.png'} className={style.exampleImg} />: null} */}
+                {props.value.example !== "" ? <DisplayGIF value={'example/' + props.value.example + '.png'} /> : null}
             </div>
         </div>
     )
@@ -25,6 +50,7 @@ class Space extends React.Component {
         super(props)
         this.state = {
             current: 0,
+            anchorEl: '',
         }
     }
 

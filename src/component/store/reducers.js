@@ -13,10 +13,16 @@ const defaultState = {
             "author": "New York Times"
         },
         {
-            "title": "Manhattan work and sleep",
-            "source": "https://www.darkhorseanalytics.com/blog/breathing-city/",
-            "url": "breathingcity",
-            "author": "Joey Cherdarchuk"
+            "title": "Global temperature Changes",
+            "source": "https://twitter.com/ed_hawkins/status/729753441459945474?lang=en",
+            "url": "GlobalTemperature",
+            "author": "Ed Hawkins"
+        },
+        {
+            "title": "Americans are growing bigger",
+            "source": "https://flowingdata.com/2016/06/14/growing-to-obesity/",
+            "url": "biggerAmerican",
+            "author": "Flowing Data"
         },
         {
             "title": "The shape-shifting US income distribution",
@@ -25,10 +31,46 @@ const defaultState = {
             "author": "Financial Times"
         },
         {
-            "title": "Americans are growing bigger",
-            "source": "https://flowingdata.com/2016/06/14/growing-to-obesity/",
-            "url": "biggerAmerican",
+            "title": "The difference between men and women populations by age",
+            "source": "https://i2.wp.com/flowingdata.com/wp-content/uploads/2018/10/male-female-bivariate-zeroed.gif?resize=670%2C420&ssl=1",
+            "url": "areaGender2",
             "author": "Flowing Data"
+        },
+        {
+            "title": "The number of total cases in multiple countries",
+            "source": "https://wap.peopleapp.com/article/5210197/5111953",
+            "url": "virus",
+            "author": "People's Daily"
+        },
+        {
+            "title": "Manhattan work and sleep",
+            "source": "https://www.darkhorseanalytics.com/blog/breathing-city/",
+            "url": "breathingcity",
+            "author": "Joey Cherdarchuk"
+        },
+        {
+            "title": "Mesmerizing Migration: Watch 118 Bird Species Migrate Across A Map Of The Western Hemisphere",
+            "source": "https://www.allaboutbirds.org/mesmerizing-migration-watch-118-bird-species-migrate-across-a-map-of-the-western-hemisphere/",
+            "url": "birdTraces",
+            "author": "The Cornell Lab"
+        },
+        {
+            "title": "The Proliferation of Walmart",
+            "source": "https://twitter.com/toddrjones/status/1167112782124179456",
+            "url": "walmart",
+            "author": "Todd Jones"
+        },
+        {
+            "title": "The Fall And Rise Of U.S. Income Inequality",
+            "source": "https://twitter.com/galka_max/status/823778751079219201",
+            "url": "riseAndFall",
+            "author": "Planet Money"
+        },
+        {
+            "title": "Percent of US Population by Age Group",
+            "source": "http://twitpic.com/e0t7oo",
+            "url": "nextAmerica",
+            "author": "Pew Research Center"
         },
     ],
     "space": [

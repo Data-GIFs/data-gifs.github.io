@@ -142,7 +142,7 @@ class Home extends React.Component {
 
                 <div className={style.publication}>
                     <div className={style.left}>
-                        <iframe width="100%" height="270px" src="https://www.youtube.com/embed/PFLrrK_4jj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="100%" height="270px" src="https://www.youtube.com/embed/PFLrrK_4jj0" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                     </div>
                     <div className={style.right}>
                         <p className={style.paper}>
@@ -162,7 +162,7 @@ class Home extends React.Component {
                         <span>Data-GIF Gallery</span>
                     </div>
                     <div className={style.subtitle}>
-                        <a href="https://data-gifs.github.io/Data-GIFs/gallery">view the whole gallery &gt;&gt;</a>
+                        <a href="./gallery/index.html">view the whole gallery &gt;&gt;</a>
                     </div>
                     <div className={style.cards}>
                         {this.renderGIFs()}
